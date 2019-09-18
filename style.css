@@ -1,0 +1,48 @@
+body {
+  font-family: Fira Sans;
+font-weight: 900;
+}
+
+div {
+  height: 100vh;
+  background-color: black;
+  text-align: center;
+  color: black;
+  background-image: url(https://sun9-39.userapi.com/c840238/v840238386/8d345/sFo7b9jdaqc.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+a {
+color: white;
+}
+
+h1 {
+ 
+font-size: 75px;
+  line-height: 240px;
+  font-family: Anonymous Pro;
+  text-transform: uppercase;
+color: white;
+letter-spacing: 3px;
+padding-top: 15;
+}
+
+h2 {
+font-size: 30px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+color: white;
+text-align: left;
+margin-left: 40px;
+  width: 420px; 
+  height: 420px;
+}
+ul {
+  list-style-type: square;
+}
+footer {
+font-family: Times New Roman;
+color: black;
+margin-top: 65px;
+
+}
